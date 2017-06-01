@@ -5,7 +5,7 @@ Este projeto contém os fontes do artigo publicado em meu blog, mostrando como c
 A diferença deste projeto para o que é apresentado no blog são as imagens, que foram atualizadas.
 
 
-## CONJUNTOS DE ÍCONES *GRATUITOS* UTILIZADOS: 
+### CONJUNTOS DE ÍCONES *GRATUITOS* UTILIZADOS: 
     	
 ***superhero***
 
